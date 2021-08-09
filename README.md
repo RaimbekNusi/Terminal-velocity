@@ -29,5 +29,5 @@ Here are the steps for how to open, use and utilize the program:
 
 - First, download all of the files listed above;
 - Put all the files in one folder;
-- Open the file Projec_rock_paper.py;
+- Open the file Projec_termV.py;
 - The program will open a command console which will ask you to input the mass of the object, the acceleration due to gravity, viscosity, area, and drag coefficient.
