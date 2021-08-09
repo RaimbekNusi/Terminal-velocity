@@ -3,7 +3,9 @@
 ## Description
 Terminal velocity is the maximum velocity (speed) attainable by an object as it falls through a fluid (air is the most common example). It occurs when the sum of the drag force (Fd) and the buoyancy is equal to the downward force of gravity (FG) acting on the object. Since the net force on the object is zero, the object has zero acceleration. That can be approximated by:
 
-![image](https://user-images.githubusercontent.com/86201781/128755405-776829f8-aab5-4e62-a9b1-ba891dea8c7d.png)
+![image](https://user-images.githubusercontent.com/86201781/128756090-d1784a47-87bd-4975-b721-ce000c702906.png)
+
+
 
 where m is the mass of the object, g is the acceleration due to gravity (9.8m/s2), ρ is the viscosity (air is approximately 1.81e − 5kg/m/s), A is the surface area and Cd is the drag coefficient (around 1.1). The result is Vt, the maximum velocity the object will reach.
 
