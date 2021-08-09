@@ -23,3 +23,11 @@ Here is an example of how your program’s console output might look. Green text
 
 ![image](https://user-images.githubusercontent.com/86201781/128755977-63562e64-3f42-4a19-a5a0-721bbb0ff211.png)
 
+## How to use
+
+Here are the steps for how to open, use and utilize the program:
+
+- First, download all of the files listed above;
+- Put all the files in one folder;
+- Open the file Projec_rock_paper.py;
+- The program will open a command console which will ask you to input the mass of the object, the acceleration due to gravity, viscosity, area, and drag coefficient.
