@@ -1,5 +1,3 @@
-"Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long"
-"Question 4"
 import math as s
 m = float(input("Please enter the mass of the object: "))
 g = float(input("Please enter the acceleration of the object: "))
